@@ -15,6 +15,7 @@ public class Lab3Controller {
 
     @FXML
     void buttonPressed(ActionEvent event) {
+    	label1.setText("welcome to Javafx");
 
     }
 
